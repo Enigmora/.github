@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="enigmora-banner.png" alt="Enigmora - Tecnologías para la Educación" width="100%">
+  <img src="enigmora-banner.svg" alt="Enigmora - Tecnologías para la Educación" width="100%">
 </p>
 
 # Enigmora SC
