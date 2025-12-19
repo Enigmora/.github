@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://enigmora.com/img/enigmora_logo_silueta.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://enigmora.com/img/enigmora_logo_main.svg">
-  <img alt="Enigmora" src="https://enigmora.com/img/enigmora_logo_main.svg" width="280">
-</picture>
+<p align="center">
+  <img src="enigmora-banner.png" alt="Enigmora - Tecnologías para la Educación" width="100%">
+</p>
 
 # Enigmora SC
 
