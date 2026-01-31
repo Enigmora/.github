@@ -16,7 +16,7 @@
 
 * **Assignment & Duration / Cesión y Temporalidad:**
 	* **EN:** The Contributor irrevocably and exclusively assigns to **ENIGMORA S.C.** all economic rights (*derechos patrimoniales*) regarding their Contributions. According to **Article 103 of the Mexican Federal Law on Copyright (LFDA)**, this assignment for computer programs has no time limit and is valid for the entire legal duration of the rights.
-	* **ES:** El Colaborador cede de manera irrevocable y exclusiva a favor de **ENIGMORA S.C.** la totalidad de los derechos patrimoniales sobre sus Contribuciones. Según el **Artículo 103 de la LFDA (México)**, esta cesión para programas de computación no tiene límite temporal y es válida por toda la vigencia legal de los derechos.
+	* **ES:** El Colaborador cede de manera irrevocable y exclusiva a favor de **ENIGMORA S.C.** la totalidad de los derechos patrimoniales sobre sus Contribuciones. Según el **Artículo 103 de la Ley Federal del Derecho de Autor (LFDA, MÉXICO)**, esta cesión para programas de computación no tiene límite temporal y es válida por toda la vigencia legal de los derechos.
 
 * **Consideration / Onerosidad:**
 	* **EN:** This assignment is made for consideration (*onerosa*). The consideration consists of: attribution of authorship (moral rights), the right to use the resulting software, and professional exposure within the ecosystem.
