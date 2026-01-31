@@ -1,4 +1,4 @@
-# CONTRIBUTING / CONTRIBUCIONES
+# Contributing / Contribuciones
 
 **EN:** Thank you for your interest in contributing! This document establishes the legal and technical basis to ensure the project grows in an orderly and protected manner.
 
