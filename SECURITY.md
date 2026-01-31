@@ -1,4 +1,4 @@
-SECURITY / SEGURIDAD
+# SECURITY / SEGURIDAD
 
 ## 🛡️ Security Policy / Política de Seguridad
 
