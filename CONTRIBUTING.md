@@ -6,7 +6,7 @@ CONTRIBUTING
 
 ## ⚖️  1. Acuerdo de Licencia del Colaborador (CLA)
 
-Al contribuir a este repositorio, aceptas que tus aportaciones se rigen por la licencia especificada en el archivo [LICENSE](LICENSE) de este repositorio y por los siguientes términos de **Cesión de Derechos**:
+Al contribuir a este repositorio, aceptas que tus aportaciones se rigen por la licencia especificada en el archivo LICENSE de este repositorio y por los siguientes términos de **Cesión de Derechos**:
 
 ### Marco Legal (México / Internacional)
 
