@@ -1,131 +1,90 @@
-# Contributor Covenant Code of Conduct
+# CODE OF CONDUCT / CÓDIGO DE CONDUCTA
 
-## Our Pledge
+## 🤝 Our Pledge / Nuestro Compromiso
 
-We as members, contributors, and leaders pledge to make participation in the Claudian community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+**EN:** We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+**ES:** Nosotros, como miembros, colaboradores y líderes, nos comprometemos a hacer que la participación en nuestra comunidad sea una experiencia libre de acoso para todos, independientemente de su edad, dimensiones corporales, discapacidad visible o invisible, etnia, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, casta, color, religión o identidad y orientación sexual.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
-
-## Our Standards
-
-### Examples of behavior that contributes to a positive environment:
-
-- **Being respectful**: Using welcoming and inclusive language
-- **Being empathetic**: Showing empathy towards other community members
-- **Being constructive**: Giving and gracefully accepting constructive feedback
-- **Being accountable**: Accepting responsibility for mistakes, apologizing, and learning from the experience
-- **Being collaborative**: Focusing on what is best for the overall community
-- **Being patient**: Especially with newcomers and those asking questions
-
-### Examples of unacceptable behavior:
-
-- **Harassment**: The use of sexualized language or imagery, and sexual attention or advances of any kind
-- **Trolling**: Insulting or derogatory comments, and personal or political attacks
-- **Discrimination**: Public or private harassment based on protected characteristics
-- **Privacy violations**: Publishing others' private information without explicit permission
-- **Unprofessional conduct**: Other conduct which could reasonably be considered inappropriate in a professional setting
-- **Intimidation**: Deliberate intimidation, stalking, or following (online or in person)
-- **Disruption**: Sustained disruption of community events, including talks and presentations
-
-## Enforcement Responsibilities
-
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
-
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
-
-## Scope
-
-This Code of Conduct applies within all community spaces, including:
-
-- GitHub repository (issues, pull requests, discussions, wiki)
-- Official communication channels
-- Community events and meetups
-- Social media when representing the project
-- One-on-one communications related to community work
-
-This Code of Conduct also applies when an individual is officially representing the community in public spaces.
-
-## Reporting
-
-### How to Report
-
-If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the project team at:
-
-**Email**: [contacto@enigmora.com](mailto:contacto@enigmora.com)
-
-All reports will be reviewed and investigated promptly and fairly.
-
-### What to Include
-
-When reporting, please include:
-
-- Your contact information
-- Names (real, usernames, or pseudonyms) of any individuals involved
-- Description of the behavior and context
-- Date and location of the incident
-- Any additional information that may be helpful
-
-### Confidentiality
-
-All community leaders are obligated to respect the privacy and security of the reporter of any incident. Reports will be handled with discretion and confidentiality.
-
-## Enforcement Guidelines
-
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
-
-### 1. Correction
-
-**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
-
-**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within the community.
-
-## Appeals
-
-If you believe you have been falsely or unfairly accused of violating this Code of Conduct, you may appeal by sending a detailed explanation to [contacto@enigmora.com](mailto:contacto@enigmora.com). Appeals will be reviewed by a different community leader than the one who made the original decision.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
-
-For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq).
+**EN:** We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+**ES:** Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y saludable.
 
 ---
 
-## Summary
+## 📏 Our Standards / Nuestros Estándares
 
-| Behavior | Status |
-|----------|--------|
-| Be respectful and inclusive | Expected |
-| Give constructive feedback | Expected |
-| Accept responsibility for mistakes | Expected |
-| Harassment or discrimination | Not tolerated |
-| Trolling or personal attacks | Not tolerated |
-| Privacy violations | Not tolerated |
+### EN: Examples of behavior that contributes to a positive environment:
+
+### ES: Ejemplos de comportamiento que contribuyen a un entorno positivo:
+
+* **Being respectful / Ser respetuoso:** Using welcoming and inclusive language. / Usar lenguaje acogedor e inclusivo.
+* **Being empathetic / Ser empático:** Showing empathy towards other community members. / Mostrar empatía hacia otros miembros de la comunidad.
+* **Being constructive / Ser constructivo:** Giving and gracefully accepting constructive feedback. / Dar y aceptar con elegancia las críticas constructivas.
+* **Being accountable / Ser responsable:** Accepting responsibility for mistakes, apologizing, and learning from the experience. / Aceptar la responsabilidad de los errores, pedir disculpas y aprender de la experiencia.
+* **Being collaborative / Ser colaborativo:** Focusing on what is best for the overall community. / Enfocarse en lo que es mejor para la comunidad en general.
+* **Being patient / Ser paciente:** Especially with newcomers and those asking questions. / Especialmente con los recién llegados y quienes hacen preguntas.
+
+### EN: Examples of unacceptable behavior:
+
+### ES: Ejemplos de comportamiento inaceptable:
+
+* **Harassment / Acoso:** The use of sexualized language or imagery, and sexual attention or advances of any kind. / El uso de lenguaje o imágenes sexualizadas, y atención o avances sexuales de cualquier tipo.
+* **Trolling:** Insulting or derogatory comments, and personal or political attacks. / Comentarios insultantes o derogatorios, y ataques personales o políticos.
+* **Discrimination / Discriminación:** Public or private harassment based on protected characteristics. / Acoso público o privado basado en características protegidas.
+* **Privacy violations / Violaciones de privacidad:** Publishing others' private information without explicit permission. / Publicar información privada de otros sin permiso explícito.
+* **Unprofessional conduct / Conducta no profesional:** Other conduct which could reasonably be considered inappropriate in a professional setting. / Otra conducta que razonablemente pueda considerarse inapropiada en un entorno profesional.
+* **Intimidation / Intimidación:** Deliberate intimidation, stalking, or following. / Intimidación deliberada, acecho o seguimiento.
 
 ---
 
-<p align="center">
-  <strong>Claudian</strong><br>
-  Building an inclusive community together<br>
-  <a href="https://enigmora.com">Enigmora SC</a>
-</p>
+## ⚖️ Enforcement Responsibilities / Responsabilidades de Aplicación
+
+**EN:** Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+**ES:** Los líderes de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán medidas correctivas apropiadas y justas en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
+
+---
+
+## 🔍 Scope / Alcance
+
+**EN:** This Code of Conduct applies within all community spaces (GitHub, communication channels, events, and social media) and when an individual is officially representing the community in public spaces.
+**ES:** Este Código de Conducta se aplica en todos los espacios de la comunidad (GitHub, canales de comunicación, eventos y redes sociales) y cuando un individuo representa oficialmente a la comunidad en espacios públicos.
+
+---
+
+## 🚩 Reporting / Reportes
+
+### How to Report / Cómo Reportar
+
+**EN:** If you experience or witness unacceptable behavior, please report it to: **contacto@enigmora.com**
+**ES:** Si experimentas o eres testigo de un comportamiento inaceptable, infórmalo a: **contacto@enigmora.com**
+
+### Confidentiality / Confidencialidad
+
+**EN:** All reports will be handled with discretion and confidentiality.
+**ES:** Todos los reportes serán tratados con discreción y confidencialidad.
+
+---
+
+## 🛠️ Enforcement Guidelines / Directrices de Aplicación
+
+1. **Correction / Corrección:** A private, written warning with clarity around the nature of the violation. / Una advertencia privada y escrita aclarando la naturaleza de la infracción.
+2. **Warning / Advertencia:** A warning with consequences for continued behavior and a specified period of restricted interaction. / Una advertencia con consecuencias si el comportamiento continúa y un periodo de interacción restringida.
+3. **Temporary Ban / Expulsión Temporal:** A temporary ban from any sort of interaction with the community. / Una expulsión temporal de cualquier tipo de interacción con la comunidad.
+4. **Permanent Ban / Expulsión Permanente:** A permanent ban from any sort of public interaction within the community. / Una expulsión permanente de cualquier interacción pública dentro de la comunidad.
+
+---
+
+## 📜 Attribution / Atribución
+
+**EN:** Adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+**ES:** Adaptado del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.1.
+
+---
+
+## 📝 Summary / Resumen
+
+| Behavior / Comportamiento | Status / Estado |
+| --- | --- |
+| **Respectful & Inclusive / Respeto e Inclusión** | Expected / Esperado |
+| **Constructive Feedback / Crítica Constructiva** | Expected / Esperado |
+| **Harassment & Discrimination / Acoso y Discriminación** | Not tolerated / No tolerado |
+| **Trolling & Attacks / Trolling y Ataques** | Not tolerated / No tolerado |
