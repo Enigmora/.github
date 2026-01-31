@@ -59,4 +59,3 @@ Al enviar un **Pull Request (PR)**:
 2. Se ejecutarán las pruebas automatizadas (si el proyecto las tiene).
 3. Se realizará una revisión de código (_Code Review_) para asegurar que se alinean con la arquitectura del sistema.
 
----
